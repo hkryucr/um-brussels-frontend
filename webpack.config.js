@@ -29,7 +29,8 @@ module.exports = {
     // configuration options
     alias: {
       j: path.resolve(__dirname, "src/js"),
-      c: path.resolve(__dirname, "src/c")
+      c: path.resolve(__dirname, "src/c"),
+      d: path.resolve(__dirname, "src/d")
       // Templates: path.resolve(__dirname, "src/templates/")
     }    
   },

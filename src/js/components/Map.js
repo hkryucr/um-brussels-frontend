@@ -1,3 +1,5 @@
+import {fromJS} from 'immutable';
+import {json as requestJson} from 'd3-request';
 import React from 'react';
 import ReactMapGL from 'react-map-gl';
 
@@ -8,10 +10,13 @@ class Map extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
+      // mapStyle: defaultMapStyle,
+      year: 2015,
+      data: null,
       viewport: {
-        latitude: 37.785164,
-        longitude: -122.41669,
-        zoom: 8,
+        latitude: 50.85,
+        longitude: 4.35,
+        zoom: 11,
         bearing: 0,
         pitch: 0,
         width: window.innerWidth,
@@ -19,6 +24,24 @@ class Map extends React.Component {
       }
     };
   }
+
+  // componentDidMount() {
+  //   requestJson('d/Metal.json', (error, response) => {
+  //     if (!error) {
+  //       this._loadData(response);
+  //     }
+  //   });
+  // }
+
+  // _loadData = data => {
+  //   const mapStyle = defaultMapStyle
+  //     // Add geojson source to map
+  //     .setIn(['sources', 'incomeByState'], fromJS({type: 'geojson', data}))
+  //     // Add point layer to map
+  //     .set('layers', defaultMapStyle.get('layers').push(dataLayer));
+
+  //   this.setState({data, mapStyle});
+  // };
 
   render() {
     const {viewport} = this.state;
