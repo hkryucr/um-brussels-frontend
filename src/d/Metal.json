@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3.05503,51.309933 ]
+   },
+   "properties": {
+   "Site Name":"Global Imports",
+   "Location":"Shipments, location generalized",
+   "Junction Stage":"Source",
+   "Annual tonnage":"367,689"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.939373,51.145051 ]
+   },
+   "properties": {
+   "Site Name":"Arcelor Steel Belgium",
+   "Location":"Lammerdries 10, 2440 Geel, Belgium",
+   "Junction Stage":"Conversion",
+   "Annual tonnage":"27,872"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.292568,50.831117 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Anderlecht",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"17,955"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.439129,50.811836 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Auderghem",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"5,413"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.293651,50.864546 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Berchem Ste-Agathe",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"3,559"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.360282,50.883771 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Bruxelles",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"29,336"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.394748,50.83304 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Etterbeek",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"8,846"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.408122,50.869403 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Evere",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"6,161"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.322296,50.814891 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Forest",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"9,010"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.309024,50.874882 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Ganshoren",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"3,985"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.378621,50.824109 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Ixelles",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"18,045"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.324707,50.883548 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Jette",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"7,796"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.324544,50.864177 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Koekelberg",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"3,134"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.31936,50.854728 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Molenbeek St-Jean",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"13,580"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.34483,50.829021 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"St-Gilles",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"9,206"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.369372,50.85465 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"St-Josse-ten-Noode",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"4,297"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.388751,50.860953 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Schaerbeek",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"19,898"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.36179,50.792253 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Uccle",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"13,412"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.423132,50.795646 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Watermael-Boitsfort",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"4,099"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.430891,50.84911 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Woluwe-St-Lambert",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"9,654"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.440222,50.831253 ]
+   },
+   "properties": {
+   "Site Name":"Non-residential Buildings",
+   "Location":"Woluwe-St-Pierre",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"6,637"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.292568,50.831117 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Anderlecht",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"8,978"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.439129,50.811836 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Auderghem",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"2,706"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.293651,50.864546 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Berchem Ste-Agathe",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"1,779"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.360282,50.883771 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Bruxelles",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"14,668"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.394748,50.83304 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Etterbeek",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"4,423"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.408122,50.869403 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Evere",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"3,080"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.322296,50.814891 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Forest",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"4,505"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.309024,50.874882 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Ganshoren",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"1,993"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.378621,50.824109 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Ixelles",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"9,022"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.324707,50.883548 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Jette",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"3,898"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.324544,50.864177 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Koekelberg",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"1,567"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.31936,50.854728 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Molenbeek St-Jean",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"6,790"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.34483,50.829021 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"St-Gilles",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"4,603"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.369372,50.85465 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"St-Josse-ten-Noode",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"2,148"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.388751,50.860953 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Schaerbeek",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"9,949"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.36179,50.792253 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Uccle",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"6,706"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.423132,50.795646 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Watermael-Boitsfort",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"2,050"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.430891,50.84911 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Woluwe-St-Lambert",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"4,827"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.440222,50.831253 ]
+   },
+   "properties": {
+   "Site Name":"Residential Buildings",
+   "Location":"Woluwe-St-Pierre",
+   "Junction Stage":"Demand",
+   "Annual tonnage":"3,319"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.817432,51.318025 ]
+   },
+   "properties": {
+   "Site Name":"Metallo Belgium",
+   "Location":"Nieuwe Dreef 33, 2340 Beerse, Belgium",
+   "Junction Stage":"Reconversion",
+   "Annual tonnage":"54,585"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.314789,50.810799 ]
+   },
+   "properties": {
+   "Site Name":"RecyPark South",
+   "Location":"1190 Forest, Belgium",
+   "Junction Stage":"Reconversion",
+   "Annual tonnage":"101"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.377136,50.880181 ]
+   },
+   "properties": {
+   "Site Name":"RecyPark Nord",
+   "Location":"Rue du Rupel, 1000 Bruxelles, Belgium",
+   "Junction Stage":"Reconversion",
+   "Annual tonnage":"67"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5.34865,51.065022 ]
+   },
+   "properties": {
+   "Site Name":"Landfill",
+   "Location":"Wolfsdal 52/Z, 3530 Houthalen-Helchteren, Belgium",
+   "Junction Stage":"Sink",
+   "Annual tonnage":"88,716"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.380686,50.883404 ]
+   },
+   "properties": {
+   "Site Name":"Incinerator",
+   "Location":"Quai L�on Monnoyer 8 1000 Bruxelles",
+   "Junction Stage":"Sink",
+   "Annual tonnage":"101,262"
+   }
+ }
+]
+}
