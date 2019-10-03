@@ -12,7 +12,7 @@ class Site extends React.Component {
       <div className='Site' style = {styles}>
         <SiteHeader/>
         <SiteMain/>
-        {/* <Map/> */}
+        <Map/>
         <div>THIS IS GOING TO BE A MAP</div>
       </div>
     )
